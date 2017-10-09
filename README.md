@@ -9,5 +9,6 @@ To use this template, either create a new ionic project using the ionic node.js 
 ### With the Ionic CLI:
 
 $ sudo npm install
+
 $ ionic serve
 
